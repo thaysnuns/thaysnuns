@@ -43,4 +43,5 @@ I'm excited to find my first opportunity in tech, apply my skills, and keep lear
 ## 📌 Featured Projects
 
 - [Machine Learning Class](https://github.com/thaysnuns/machine-learning-class)
-- [Sobremim](https://github.com/thaysnuns/Sobremim)
+- [Sobre mim](https://github.com/thaysnuns/Sobremim)
+- [Vai na Web](https://github.com/thaysnuns/VainaWeb)
