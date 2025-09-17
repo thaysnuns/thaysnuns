@@ -1,6 +1,6 @@
 # 👩‍💻 Thayná S. Nunes
 
-**Graduated in Information Technology | Systems Analysis & Development Student**
+**Information Technology Technician | Systems Analysis & Development Student**
 
 [![LinkedIn](https://img.shields.io/badge/-Thayná%20S.%20Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thayn%C3%A1-s-nunes/)](https://www.linkedin.com/in/thayn%C3%A1-s-nunes/)
 
