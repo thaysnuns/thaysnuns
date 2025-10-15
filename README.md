@@ -45,3 +45,16 @@ I'm excited to find my first opportunity in tech, apply my skills, and keep lear
 - [Machine Learning Class](https://github.com/thaysnuns/machine-learning-class)
 - [Sobre mim](https://github.com/thaysnuns/Sobremim)
 - [Vai na Web](https://github.com/thaysnuns/VainaWeb)
+
+  ---
+
+## 📌 Most Used Languages
+<div>
+<a href="https://github.com/thaysnuns">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?thaysnuns&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?thaysnuns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+![Snake animation](https://github.com/thaysnuns/thaysnuns/blob/output/github-contribution-grid-snake.svg)
+
