@@ -1,9 +1,21 @@
-# 👩‍💻 Thayná S. Nunes
+# 👩‍💻 Thayná Nunes
+
 
 **Information Technology Technician | Systems Analysis & Development Student**
 
-[![LinkedIn](https://img.shields.io/badge/-Thayná%20S.%20Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thayn%C3%A1-s-nunes/)](https://www.linkedin.com/in/thayn%C3%A1-s-nunes/)
+  
+  <div id="catcontainer" onclick="moarcats();">
+    <img src="http://edgecats.net" alt="random cat"/>
+  </div>
 
+  <script type="text/javascript">
+    function moarcats() {
+      var catcontainer = document.getElementById("catcontainer");
+      catcontainer.innerHTML = '<img src="http://edgecats.net" alt="random cat"/>';
+      return false;
+    }
+  </script>
+  
 ---
 
 ## 🌟 About Me
