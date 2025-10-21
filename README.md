@@ -1,4 +1,4 @@
-# 👩‍💻 Thayná Nunes &nbsp;<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="coding cat" width="50px">
+# 👩‍💻 Thayná Nunes &nbsp;<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="coding cat" width="100px">
 
 **Information Technology Technician | Systems Analysis & Development Student**  
 
@@ -16,13 +16,18 @@ I'm passionate about technology, curious, creative, and always looking for ways 
 
 ## 🚀 Skills & Tools
 
-- **Web & App Development:** HTML, CSS, JavaScript, Python, Java, C#, MySQL  
-- **Systems Analysis & Development**  
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 
 **Projects I'm proud of:**  
 - 🌐 Website on medical advances  
 - 🎮 Educational interactive game  
-- 🐶 App connecting petshops with clients  
+- 🐶 App connecting petshops with clients
 
 ---
 
@@ -44,7 +49,9 @@ I’m excited to dive into my first tech opportunity, create amazing projects, a
 - 🤖 [Machine Learning Class](https://github.com/thaysnuns/machine-learning-class)  
 - 💖 [Sobre mim](https://github.com/thaysnuns/Sobremim)  
 - 🌐 [Vai na Web](https://github.com/thaysnuns/VainaWeb)  
-
+- 🍿 [Cinema Vai na Web](https://github.com/thaysnuns/CineVNW)  
+- ♻️ [Recicla Tech](https://github.com/thaysnuns/reciclaTechVNW)
+  
 ---
 
 ## 📊 GitHub Stats
