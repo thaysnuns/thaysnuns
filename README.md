@@ -2,17 +2,6 @@
 
 **Information Technology Technician | Systems Analysis & Development Student**  
 
-<div id="catcontainer" onclick="moarcats();" style="cursor: pointer; margin-top: 1em;">
-  <img src="http://edgecats.net" alt="random cat" width="150px"/>
-</div>
-
-<script type="text/javascript">
-  function moarcats() {
-    const catcontainer = document.getElementById("catcontainer");
-    catcontainer.innerHTML = '<img src="http://edgecats.net" alt="random cat" width="150px"/>';
-  }
-</script>
-
 ---
 
 ## 🌸 About Me
