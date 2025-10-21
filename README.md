@@ -1,4 +1,4 @@
-# 👩‍💻 Thayná Nunes &nbsp;<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="coding cat" width="100px">
+# 👩‍💻 Thayná Nunes
 
 **Information Technology Technician | Systems Analysis & Development Student**  
 
