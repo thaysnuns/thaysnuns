@@ -64,5 +64,12 @@
             "color": "#555555",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
         }
+        {
+            "name": "Sass",
+            "extensions": ["sass", "scss"],
+            "color": "#CC6699",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+        }
+
     ]
 }
