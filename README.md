@@ -57,6 +57,6 @@ I’m excited to dive into my first tech opportunity, create amazing projects, a
 ## 📊 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/thaysnuns?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/thaysnuns">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/thaysnuns?theme=dark&config=config.json">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/thaysnuns?config=config.json">
 </picture>
