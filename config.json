@@ -1,9 +1,9 @@
 {
     "title": "🏆 Most Used Languages 🏆",
-    "custom_image": "",
-    "colors_light_theme" : {
+    "custom_image": "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif",
+    "colors_light_theme": {
         "title_color": "#828282",
-        "text_color" : "#888888",
+        "text_color": "#888888",
         "percentage_color": "#828282",
         "background_color": "#fefeff",
         "border_color": "#808080"
@@ -15,9 +15,6 @@
         "background_color": "#20202a",
         "border_color": "#101010"
     },
-    "disable_languages": [
-        "HTML"
-    ],
     "languages": [
         {
             "name": "Python",
@@ -25,4 +22,47 @@
             "color": "#3572A5",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
         },
-...
+        {
+            "name": "JavaScript",
+            "extensions": ["js", "mjs", "cjs"],
+            "color": "#F7DF1E",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+        },
+        {
+            "name": "HTML",
+            "extensions": ["html", "htm"],
+            "color": "#E34F26",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+        },
+        {
+            "name": "CSS",
+            "extensions": ["css"],
+            "color": "#1572B6",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+        },
+        {
+            "name": "React",
+            "extensions": ["jsx", "tsx"],
+            "color": "#61DAFB",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+        },
+        {
+            "name": "Vue",
+            "extensions": ["vue"],
+            "color": "#41B883",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
+        },
+        {
+            "name": "Java",
+            "extensions": ["java"],
+            "color": "#b07219",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+        },
+        {
+            "name": "C",
+            "extensions": ["c", "h"],
+            "color": "#555555",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+        }
+    ]
+}
