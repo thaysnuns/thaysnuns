@@ -57,7 +57,7 @@ I’m excited to dive into my first tech opportunity, create amazing projects, a
 ## 📊 GitHub Stats
 
 <a href="https://github.com/thaysnuns">
-  <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaysnuns&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api?username=thaysnuns&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api"/>
+  <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/>
 </a>
 
