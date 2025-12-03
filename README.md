@@ -60,3 +60,7 @@ I’m excited to dive into my first tech opportunity, create amazing projects, a
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/thaysnuns?theme=dark&config=config.json">
   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/thaysnuns?config=config.json">
 </picture>
+
+<a>
+[![Thay's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaysnuns)](https://github.com/thaysnuns/github-readme-stats)
+<a>
