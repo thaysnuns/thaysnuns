@@ -55,7 +55,7 @@ I’m excited to dive into my first tech opportunity, create amazing projects, a
 ---
 
 ## 📊 GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaysnuns&layout=compact&langs_count=10&theme=dracula)
 
 ![Thay's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaysnuns&show_icons=true&theme=dracula)
-
